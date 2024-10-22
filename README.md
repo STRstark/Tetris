@@ -6,4 +6,4 @@ A very simple implementation of the classic Tetris game.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/tetris.git
+   git clone https://github.com/StrStark/tetris.git
